@@ -14,9 +14,10 @@ https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?
 
 ### Steps taken:
 * Understanding the Business Case.
-* Data Cleaning.
-* Data Processing.
+* Data Cleaning. Removed duplicate and wrongly spelled names were corrected. 
+* Data Processing. Added a few columns based on the data, for example, Months and years.
 * Data Analysis using pivot tables.
 * Data Visualization using charts.
 * Creation of a dynamic and interactive dashboard.
+
 
