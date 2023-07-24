@@ -2,6 +2,9 @@
 We have an Excel sheet containing road accident data which consists of different information like the date of the accident, road type, accident severity, location, vehicle type road condition, light, etc. The Excel sheet containing the data can be found under the link
 https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?
 
+## Objective:
+The primary objective of this project is to understand the factors contributing to road accidents and their impact on casualties. By examining the data, we aim to identify patterns and trends, which can help authorities and policymakers devise targeted road safety measures to reduce accidents and minimize casualties.
+
 
 ### We want to have insight into the below KPIs-
 * Primary KPI - Total Casualties taken place after the accident.
