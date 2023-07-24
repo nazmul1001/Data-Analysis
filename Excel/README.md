@@ -1,5 +1,5 @@
 # Road Accident Dashboard for the years 2021 and 2022
-The Excel sheet containing the data can be found under the link
+We have an Excel sheet containing road accident data which consists of different information like the date of the accident, road type, accident severity, location, vehicle type road condition, light, etc. The Excel sheet containing the data can be found under the link
 https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?
 
 
